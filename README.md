@@ -14,7 +14,6 @@
    This project implements a 5G network slicing framework that enables the dynamic selection and simultaneous activation of multiple 5G use cases.
     <br>
     <br>
-    <br>
 </p>
 
 
