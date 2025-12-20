@@ -1,6 +1,32 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F_GIW8P0)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21965889&assignment_repo_type=AssignmentRepo)
-# Mobile Computing Template Wintersemester 2025/26
+# Mobile Computing Project Wintersemester 2025/26
+
+
+<!-- PROJECT LOGO -->
+<img src="docs/images/FRA-UAS_Logo_rgb.jpg" width="150"/>
+
+<h1 align="center">Mobile Computing Project – 5G Network Slicing Framework</h1>
+
+
+<p align="center">
+    <br>
+   Our project focuses on the deployment and orchestration of 5G standalone (SA) core networks, with an emphasis on scalability, performance testing, and efficient orchestration. It addresses dynamic traffic management and the automated scaling of Network Function instances such as AMF, SMF, and UPF.
+    <br>
+    <br>
+    <br>
+    <strong>Group Members:</strong>
+</p>
+
+<div align="center">
+
+| **Name**                    | **Matriculation Number** |
+|-----------------------------|--------------------------|
+| Wubishet Yibabie Damtie     | 1324950                  |
+| Student 2                   | MatriclNummer_Stud2      |
+| Student 3                   | MatriclNummer_Stud3      |
+
+</div>
 
 The following steps will help you apply what is provided here.
 
