@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F_GIW8P0)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21965889&assignment_repo_type=AssignmentRepo)
-# Mobile Computing Project Wintersemester 2025/26 - Group B
+## Mobile Computing Project Wintersemester 2025/26 - Group B
 
 
 <!-- PROJECT LOGO -->
@@ -18,23 +18,23 @@
 </p>
 
 
-## Project Summary
+### Project Summary
 This project implements a 5G network slicing framework that enables
 dynamic selection and simultaneous activation of multiple 5G use cases.
 Based on the selected use cases, the network is automatically configured
 with appropriate slices, priorities, bit rates, and data paths.
 
-## Selected Use Cases
+### Selected Use Cases
 - Mobile Broadband (eMBB)
 - Connected Cars / Emergency Communication (URLLC)
 - Industrial IoT / Smart City (mMTC)
 
-## Deployment Focus
+### Deployment Focus
 - Network Slicing using Open5GS
 - RAN & UE simulation with UERANSIM / PacketRusher
 - Web-based UI for control and visualization
 
-## Team Members (Group B) 
+### Team Members (Group B) 
 
 <div align="left">
 
@@ -49,7 +49,7 @@ with appropriate slices, priorities, bit rates, and data paths.
 
 </div>
 
-## Documentation
+### Documentation
 - [PROJECT_OVERVIEW.md](./documentation/PROJECT_OVERVIEW.md)
 - [PLANNING.md](./documentation/PLANNING.md)
 - [TEAM.md](./documentation/TEAM.md)
@@ -57,7 +57,7 @@ with appropriate slices, priorities, bit rates, and data paths.
 
 
 
-## Further information 
+### Further information 
 Relevant information regarding the project setup can be found at: [Deployments.md](/docs/deployments.md) and [Compose.md](/docs/compose.md)
 
 - [Open5GS](https://open5gs.org/open5gs/docs/)
