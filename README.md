@@ -50,9 +50,10 @@ with appropriate slices, priorities, bit rates, and data paths.
 </div>
 
 ## Documentation
-- [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md)
-- [PLANNING.md](PLANNING.md)
-- [REQUIREMENTS.md](REQUIREMENTS.md)
+- [PROJECT_OVERVIEW.md](./documentation/PROJECT_OVERVIEW.md)
+- [PLANNING.md](./documentation/PLANNING.md)
+- [TEAM.md](./documentation/TEAM.md)
+
 
 
 
