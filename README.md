@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-   Our project focuses on the deployment and orchestration of 5G standalone (SA) core networks, with an emphasis on scalability, performance testing, and efficient orchestration. It addresses dynamic traffic management and the automated scaling of Network Function instances such as AMF, SMF, and UPF.
+   This project implements a 5G network slicing framework that enables the dynamic selection and simultaneous activation of multiple 5G use cases.
     <br>
     <br>
     <br>
@@ -20,11 +20,14 @@
 
 <div align="center">
 
-| **Name**                    | **Matriculation Number** |
-|-----------------------------|--------------------------|
-| Wubishet Yibabie Damtie     | 1324950                  |
-| Student 2                   | MatriclNummer_Stud2      |
-| Student 3                   | MatriclNummer_Stud3      |
+| **Name**                     | **Matriculation Number** |
+|------------------------------|--------------------------|
+| Wubishet Yibabie Damtie      | 1324950                  |
+| Gosi Bhavani                 | Matriculation_Number     |
+| Dharani Kumthi               | Matriculation_Number     |
+| Md Ashiqur Rahman            | Matriculation_Number     |
+| Suva Sarkar                  | Matriculation_Number     |
+| Saitejaswini Vemula          | Matriculation_Number     |
 
 </div>
 
